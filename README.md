@@ -1,2 +1,2 @@
 # docker-Nest-Next
-Backend: NestJS, Frontend: Next.js environment for docker
+Backend: NestJS, Frontend: Next.js, TypwScript environment for docker
